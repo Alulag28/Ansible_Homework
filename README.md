@@ -1,2 +1,1 @@
-Ansible
-NetCracker Ansible Homework Apache
+NetCracker Ansible Apache
